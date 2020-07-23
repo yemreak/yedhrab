@@ -1,19 +1,19 @@
 ### 🌍 Kişisel Web Sitelerim
 
-- 🙋‍♂️ www.yemreak.com (Ana sayfa)
-- 📖 lib.yemreak.com (Kişisel kütüphanem)
-- 👨‍🏫 learn.yemreak.com (Öğrenme yolları) 🤝
-- 📲 android.yemreak.com (Android programlama notları)
-- 🎇 windows.yemreak.com (Windows 10 notları)
-- 🐧 linux.yemreak.com (Linux notları)
-- 🧠 ai.yemreak.com (Yapay zeka notları)
-- 🌍 web.yemreak.com (Web notları)
-- 🐍 python.yemreak.com (Python notları)
-* 🎃 kotlin.yemreak.com (Kotlin notları)
-- ☕ java.yemreak.com (Java notları)
-- 🏫 iuce.yemreak.com (İstanbul Üni. Bilgisayar Mühendisliği notları) 🤝
-- 🚀 emoji.yemreak.com (YEmoji kullanım notlarım)
-- 💫 ahk.yemreak.com (AutoHotkey notlarım)
+- [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
+- [📖 Kişisel kütüphanem](https://lib.yemreak.com)
+- [👨‍🏫 Öğrenme yolları🤝](https://learn.yemreak.com)
+- [📲 Android programlama notları](https://android.yemreak.com)
+- [🎇 Windows 10 notları](https://windows.yemreak.com)
+- [🐧 Linux notları](https://linux.yemreak.com)
+- [🧠 Yapay zeka notları](https://ai.yemreak.com)
+- [🌍 Web notları](https://web.yemreak.com)
+- [🐍 Python notları](https://python.yemreak.com)
+- [🎃 Kotlin notları](https://kotlin.yemreak.com)
+- [☕ Java notları](https://java.yemreak.com)
+- [🏫 İstanbul Üni. Bilgisayar Mühendisliği notları 🤝](https://iuce.yemreak.com)
+- [🚀 YEmoji kullanım notlarım](https://emoji.yemreak.com)
+- [💫 AutoHotkey notlarım](https://ahk.yemreak.com)
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
