@@ -2,7 +2,7 @@
 
 - [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
 - [📖 Kişisel kütüphanem](https://lib.yemreak.com)
-- [👨‍🏫 Öğrenme yolları🤝](https://learn.yemreak.com)
+- [👨‍🏫 Öğrenme yolları 🤝](https://learn.yemreak.com)
 - [📲 Android programlama notları](https://android.yemreak.com)
 - [🎇 Windows 10 notları](https://windows.yemreak.com)
 - [🐧 Linux notları](https://linux.yemreak.com)
