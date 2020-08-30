@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
+
 ### 🌍 Kişisel Web Sitelerim
 
 - [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
