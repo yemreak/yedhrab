@@ -1,5 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
 
+[🥇 Most Active GitHub user in Turkey](https://commits.top/turkey.html)
+
 ### 🌍 Kişisel Web Sitelerim
 
 - [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
