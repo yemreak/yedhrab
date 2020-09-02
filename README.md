@@ -29,7 +29,7 @@
 - 🌃 VS Code: Theme extension, shortcuts, syntax extensions
 - 🌄 Intellij: Theme extension, VS Code Keymap shortcuts
 
-> 💁‍♂️ Dahah detaylı bilgi için [🌟 YEmreAK.com](https://lib.yemreak.com/programlama) üzerindeki sayfalarıma bakabilirsiniz
+> 💁‍♂️ Daha detaylı bilgi için [🌟 YEmreAK.com](https://lib.yemreak.com/programlama) üzerindeki sayfalarıma bakabilirsiniz
 
 <!--
 **yedhrab/yedhrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
