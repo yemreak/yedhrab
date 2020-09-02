@@ -21,6 +21,16 @@
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
+### 👷‍♂️ Üzerinde Çalıştığım Alanlar
+
+- 🐍 Python: websocket_client, request, mouse, keyboard, instabot, pynput, logger, colorlog, hreading, subprocess, pathlib, os, platform, selenium, threding, oop, CI, pytest, unittest, doctest, package, ahk-wrapper
+- 👨‍💻 Autohotkey: YHotkeys, window automation (show, hide, pin, transparent), clipboard, hotkey, hotstring, menubar, icon
+- ☕ Java / Kotlin: Thread, Listeners, JavaFX, RoomDB, Broadcast, Intent, Activity, Events, RcycleView, CardView
+- 🌃 VS Code: Theme extension, shortcuts, syntax extensions
+- 🌄 Intellij: Theme extension, VS Code Keymap shortcuts
+
+> 💁‍♂️ Sıkıldım, fazlası için [🌟 YEmreAK.com](https://lib.yemreak.com/programlama) üzerindeki sayfalarıma bakabilirsiniz
+
 <!--
 **yedhrab/yedhrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
