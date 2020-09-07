@@ -35,6 +35,14 @@
 
 </details>
 
+<details>
+    <summary><b>🧐 Daha fazlası</b></summary>
+  <br>
+
+  - 💁‍♂️ Bence bu kadarı yeterli
+
+</details>
+
 <!--
 **yedhrab/yedhrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
