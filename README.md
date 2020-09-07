@@ -21,8 +21,6 @@
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
-</details>
-
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
   <br>
