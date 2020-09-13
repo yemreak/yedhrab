@@ -39,7 +39,7 @@
     <summary><b>🧐 Daha fazlası</b></summary>
   <br>
 
-  - 💁‍♂️ Bence bu kadarı yeterli
+  - 💁‍♂️ Bence bu kadarı yeterli, daha detaylı bilgi için [🌟 YEmreAK.com](https://yemreak.com) üzerindeki sayfalarıma bakabilirsiniz
 
 </details>
 
