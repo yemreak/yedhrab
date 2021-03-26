@@ -1,13 +1,13 @@
 
 
-[🥇 Most Active GitHub user in Turkey](https://commits.top/turkey.html)
+[🥇 Most Active GitHub user in Turkey ~ Ekim 2020](https://commits.top/turkey.html)
+
+<p align="center">
+    <img float="left" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
+    <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedhrab&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html&langs_count=7">
+</p>
 
 ### 🌍 Kişisel Web Sitelerim
-
-<p align="right">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedhrab&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html&langs_count=7">
-</p>
 
 - [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
 - [📖 Kişisel kütüphanem](https://lib.yemreak.com)
