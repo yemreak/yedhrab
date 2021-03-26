@@ -6,8 +6,6 @@
 
 <p align="right">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
-    <br>
-    <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedhrab&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html&langs_count=7">
 </p>
 
