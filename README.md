@@ -1,8 +1,15 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
+
 
 [🥇 Most Active GitHub user in Turkey](https://commits.top/turkey.html)
 
 ### 🌍 Kişisel Web Sitelerim
+
+<p align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
+    <br>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedhrab&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html&langs_count=7">
+</p>
 
 - [🙋‍♂️ Ana sayfa](https://www.yemreak.com)
 - [📖 Kişisel kütüphanem](https://lib.yemreak.com)
@@ -18,6 +25,7 @@
 - [🏫 İstanbul Üni. Bilgisayar Mühendisliği notları 🤝](https://iuce.yemreak.com)
 - [🚀 YEmoji kullanım notlarım](https://emoji.yemreak.com)
 - [💫 AutoHotkey notlarım](https://ahk.yemreak.com)
+
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
