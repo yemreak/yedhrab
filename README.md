@@ -2,7 +2,7 @@
 
 [🥇 Most Active GitHub user in Turkey ~ Ekim 2020](https://commits.top/turkey.html)
 
-[![](https://komarev.com/ghpvc/?username=yedhrab&color=orange)]()
+[![](https://komarev.com/ghpvc/?username=yedhrab&color=orange)](https://github.com/yedhrab)
 
 <p align="center">
     <img float="left" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
