@@ -4,10 +4,15 @@
 
 [![](https://komarev.com/ghpvc/?username=yedhrab&color=orange)](https://github.com/yedhrab)
 
-<p align="center">
-    <img float="left" src="https://github-readme-stats.vercel.app/api?username=yedhrab&show_icons=true&theme=gruvbox">
-    <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedhrab&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html&langs_count=7">
-</p>
+### 🌟 [YEmreAk.com](https://yemreak.com)
+
+- 🔭 I’m currently working on `personal private projects` and some `alfred workflows`
+- 🌱 I’m currently learning `python async programming`, `web scrabbing`, `automation & integration`, `mbti personalities` and `alfred workflow programming`
+- 👯 I’m looking to collaborate on Im sorry but `no` 🙄
+- 🤔 I’m looking for help with `aiomultiprocess`, `async programming`, `web scrabbing`  and `server management`
+- 💬 Ask me about absoluty `nothing`, `leave me alone please` 🙄
+- 📫 How to reach me: `please no` only for `emergency`
+- ⚡ Fun fact: `I don't know why I typed all of these words...`
 
 ### 🌍 Kişisel Web Sitelerim
 
@@ -29,6 +34,7 @@
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
+<!--
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
   <br>
@@ -51,7 +57,7 @@
 
 </details>
 
-<!--
+
 **yedhrab/yedhrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
