@@ -11,8 +11,8 @@
 - 👯 I’m looking to collaborate on Im sorry but `no` 🙄
 - 🤔 I’m looking for help with `aiomultiprocess`, `async programming`, `web scrabbing`  and `server management`
 - 💬 Ask me about absoluty `nothing`, `leave me alone please` 🙄
-- 📫 How to reach me: `please no` only for `emergency`
-- ⚡ Fun fact: `I don't know why I typed all of these words...`
+- 📫 How to reach me: `please no` only for `emergency` 🙄
+- ⚡ Fun fact: `I don't know why I typed all of these words...` 🙄
 
 ### 🌍 Kişisel Web Sitelerim
 
