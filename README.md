@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning `python async programming`, `web scrabbing`, `automation & integration`, `mbti personalities` and `alfred workflow programming`
 
 
-### 🤓 ChatGPT'nin repolarımdan yola çıkarak hakkımdaki fikri
+### 🤓 ChatGPT'nin *public repolarımdan* yola çıkarak hakkımdaki fikri
 
 Bu projeleri geliştiren kişi, çeşitli alanlarda deneyime sahip gibi görünmektedir. İlgilendiği alanlar ve projeler hakkında şu bilgileri verebiliriz:
 
