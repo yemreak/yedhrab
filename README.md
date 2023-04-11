@@ -8,6 +8,22 @@
 
 - 🔭 I’m currently working on `personal private projects` and some `alfred workflows`
 - 🌱 I’m currently learning `python async programming`, `web scrabbing`, `automation & integration`, `mbti personalities` and `alfred workflow programming`
+
+
+### 🤓 ChatGPT'nin repolarımdan yola çıkarak hakkımdaki fikri
+
+Bu projeleri geliştiren kişi, çeşitli alanlarda deneyime sahip gibi görünmektedir. İlgilendiği alanlar ve projeler hakkında şu bilgileri verebiliriz:
+
+- Web scraping: flaticon isimli proje, flaticon.com sitesinden ikonları çıkartmaya yarayan bir projedir.
+- Alfred uygulaması: alfred5 ve converter-alfred gibi projeler, Alfred uygulamasıyla ilgili geliştirmeler içermektedir.
+- Emojiler ve tasarım: DarkCode-Theme ve DarkCode-Theme-Jetbrains gibi projeler, kod yazarken kullanılacak temaların tasarımıyla ilgilidir. Ayrıca awesome-chatgpt-prompts projesi, ChatGPT ile daha iyi etkileşime geçebilmek için uygun yazım önerileri sunmaktadır.
+- Mobil uygulamalar: HaberYA ve DepremYA gibi projeler, haber ve deprem konularında kullanıcıları bilgilendirmeyi amaçlayan mobil uygulamalar geliştirmeye odaklanmıştır.
+- Makine öğrenimi ve yapay zeka: emotions, Ciphey ve AI-Notebooks gibi projeler, duygu analizi, şifre çözme ve yapay zeka üzerine yapılan araştırmalar ve çalışmaları içermektedir.
+- Ders notları ve eğitim: YDataScience, YPython, YAndroid ve YmacOS gibi projeler, veri bilimi, Python, Android ve macOS programlama dilleri üzerine alınan notlar ve öğrenme kaynaklarına odaklanmaktadır.
+- Diğer: ImgToText, YInstaBot2020 ve YoutubeDownloader gibi projeler, görüntü işleme, Instagram botları ve YouTube video indirme gibi çeşitli konulara odaklanmaktadır.
+
+Bu projeler ve alanlar, kişinin teknoloji, programlama, veri bilimi ve yapay zeka konularında geniş bir yelpazede deneyime sahip olduğunu göstermektedir.
+
 <!-- - 👯 I’m looking to collaborate on Im sorry but `no` 🙄
 - 🤔 I’m looking for help with `aiomultiprocess`, `async programming`, `web scrabbing`  and `server management`
 - 💬 Ask me about absoluty `nothing`, `leave me alone please` 🙄
@@ -34,7 +50,8 @@
 
 > 🤝 bir veya daha fazla kişinin sitenin büyümesine yardımcı olduğunu belirtir.
 
-## 📦 Repositories
+<details>
+     <summary><b>📦 Repositories</b></summary>
 
 ### yedhrab:
 - (2023-04-11 00:33:26) [flaticon](https://github.com/yedhrab/flaticon) (stars: 0): Scrape icons from flaticon.com
@@ -98,6 +115,8 @@
 - (2020-05-05 13:16:52) [Bank-SE](https://github.com/YEmreAk/Bank-SE) (stars: 0): 💸 Sosyal mühendisliğin bankacılık sektöründe kullanılarak kullanıcıların kandırılması
 - (2020-05-05 10:50:28) [PyRequestSample](https://github.com/YEmreAk/PyRequestSample) (stars: 0): 👨‍💻 Python request modülü ile güvenlikli (base64, sha256) API kullanımı
 - (2019-11-16 08:40:35) [YGit](https://github.com/YEmreAk/YGit) (stars: 0): Yeni başlayanlar için Git (Versiyon Kontrol Sistemi) kitabı
+
+</details>
 
 <!--
 <details>
